@@ -1,0 +1,34 @@
+
+
+    <!--ordered list start -->
+    <div>
+        <ul>
+            <li>Lorem ipsum dolor sit amet.</li><br>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit amet.</li><br>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit amet.</li><br>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+        </ul>
+    </div>
+
+    <!-- 3rd para with partition -->
+
+    <div id="first-p" style="border: 2px solid red; width: 49%; text-align: center; float: left;">
+
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel tempora id ut perferendis natus temporibus
+            iusto, ab adipisci necessitatibus officiis ipsam nesciunt laudantium voluptatibus. Voluptatum a deleniti cum
+            corrupti dolorum!.</p>
+
+
+    </div>
+
+    <div style="border: 2px solid red; float: right; width: 49%; padding: 5px;">
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint possimus tempora, sed eum architecto vel ad
+            doloremque quae blanditiis maxime natus modi? Fugiat excepturi quasi in neque hic ex quisquam?.</p>
+    </div>
