@@ -1,26 +1,39 @@
-h1{
-    color: red;
-}
-.para1{
-    font-size: medium;
-    font-style: normal;
-    color: black;
+.para-1{
     /* border: 2px solid red; */
-    width: 49%;
+    width: 97%;
+    padding-top: 5px;
+    margin-left: 25px;
+    margin-top: 5px;
     text-align: justify;
-    text-decoration: none;
-    display: inline-block;
-    text-align: justify;
-    margin-left: 2px;
 }
-.para2{
-    font-size: medium;
-    font-style: normal;
-    color: black;
-    /* border: 2px solid red; */
-    width: 49%;
-    text-align: justify;
-    text-decoration: none;
-    display: inline-block;
+/* .para-2{
+    border: 2px solid red;
+    width: 90%;
+    padding-top: 5px;
     margin-left: 10px;
+    margin-top: 5px;
+} */
+ul{
+    /* border: 2px solid red; */
+}
+
+.bottom {
+    /* border: 2px solid red; */
+    width: 47%;
+    height: 50%;
+    margin-left: 23px;
+    margin-top: 5px;
+    float: left;
+    text-align: justify;
+
+
+}
+.bottom-2{
+    /* border: 2px solid red; */
+    width: 47%;
+    height: 50%;
+    float: right;
+    margin-right: 25px;
+    margin-top: 5px;
+    text-align: justify;
 }
